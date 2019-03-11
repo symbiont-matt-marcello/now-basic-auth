@@ -11,6 +11,9 @@
     "node-express": "node node-express/index.js",
     "deploy-node-express": "cd node-express && now",
 
+    "node-polka": "node node-polka/index.js",
+    "deploy-node-polka": "cd node-polka && now",
+
     "update-static-dirs": "bash update-static-dirs.sh"
   }
 }
