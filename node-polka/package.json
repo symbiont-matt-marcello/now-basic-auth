@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "express-basic-auth": "^1.1.6",
     "polka": "^0.5.2",
     "serve-static": "^1.13.2"
   }
